@@ -1,0 +1,9 @@
+6 3
+ab
+bbbbbbbbbbbbbbbaaba
+--- --- ---
+&L2 aR1 bR1
+--- aL3 bL3
+--- aR4 aR5
+&N0 aL4 aL4
+--- bN0 bN0
